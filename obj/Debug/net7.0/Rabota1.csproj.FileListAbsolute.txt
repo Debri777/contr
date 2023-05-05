@@ -1,0 +1,15 @@
+C:\Scool\Controlnaya\Itogovaya\Rabota1\bin\Debug\net7.0\Rabota1.exe
+C:\Scool\Controlnaya\Itogovaya\Rabota1\bin\Debug\net7.0\Rabota1.deps.json
+C:\Scool\Controlnaya\Itogovaya\Rabota1\bin\Debug\net7.0\Rabota1.runtimeconfig.json
+C:\Scool\Controlnaya\Itogovaya\Rabota1\bin\Debug\net7.0\Rabota1.dll
+C:\Scool\Controlnaya\Itogovaya\Rabota1\bin\Debug\net7.0\Rabota1.pdb
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.csproj.AssemblyReference.cache
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.AssemblyInfoInputs.cache
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.AssemblyInfo.cs
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.csproj.CoreCompileInputs.cache
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.dll
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\refint\Rabota1.dll
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.pdb
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\Rabota1.genruntimeconfig.cache
+C:\Scool\Controlnaya\Itogovaya\Rabota1\obj\Debug\net7.0\ref\Rabota1.dll
